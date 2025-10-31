@@ -2,7 +2,7 @@
     android:shape="rectangle">
 
     <!-- Cor de fundo -->
-    <solid android:color="@color/laranja_e" />
+    <solid android:color="@color/laranja_e_t" />
 
     <!-- Bordas arredondadas -->
     <corners android:radius="20dp" />
@@ -10,7 +10,7 @@
     <!-- Cor e espessura da borda -->
     <stroke
         android:width="2dp"
-        android:color="@color/laranja_e" />
+        android:color="@color/laranja_e_t" />
 
     <!-- Margem interna -->
     <padding
