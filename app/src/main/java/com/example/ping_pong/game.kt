@@ -16,5 +16,12 @@ class game : AppCompatActivity() {
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom)
             insets
         }
+
+
+        val quant = intent.getStringExtra("quant")
+        val nome1 = intent.getStringExtra("nome1")
+        //val nome1 = intent.getStringExtra("nome1")
+
+
     }
 }
