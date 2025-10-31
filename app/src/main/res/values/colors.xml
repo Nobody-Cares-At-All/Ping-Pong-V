@@ -2,4 +2,8 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="blue">#0085ff</color>
+    <color name="laranja">#eb9624</color>
+    <color name="laranja_e">#FF6600</color>
+    <color name="laranja_e_t">#7FFF6600</color>
 </resources>
